@@ -1,0 +1,70 @@
+.title-container {
+    background-color: #3FD0C950;
+}
+.title-text {
+    color: #449342;
+    font-family: 'Dancing Script', cursive;
+}
+.title-caption {
+    color: #3FD0C9;
+    font-family: Montserrat;
+    font-weight: 600;
+}
+.full-stack {
+    color: #449342;
+    font-weight: bold;
+}
+
+
+.resume-container {
+    background-color: #C1F6ED95;
+}
+.hello-text {
+    color: #449342;
+    font-weight: 600;
+}
+.intro-text {
+    max-width: 275px;
+    color: #3FD0C9;
+    font-family: Montserrat;
+    font-weight: 400;
+}
+
+
+#custom-cards {
+    background-color: #C1F6ED95;
+}
+.my-skills {
+    color: #449342;
+}
+.card {
+    min-width: 293px;
+}
+.card-link {
+    text-decoration: none;
+}
+.coding-skills {
+    font-weight: bold;
+}
+
+
+.contact-container {
+    background-color: #C1F6ED95;
+}
+.get-in-touch {
+    color: #449342;
+}
+.interested-text {
+    color: #449342;
+    color: #3FD0C9;
+    font-family: Montserrat;
+    font-weight: 400;
+}
+.LinkedIn-Contact {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer-container {
+    background-color: #3FD0C950;
+}
