@@ -64,6 +64,9 @@
     text-decoration: none;
     font-weight: bold;
 }
+.contact-button {
+    text-decoration: none;
+}
 
 .footer-container {
     background-color: #3FD0C950;
